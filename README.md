@@ -18,4 +18,4 @@
 
 ### **Font Awesome** 
 
-- fontawesome.io
+- www.fontawesome.io
